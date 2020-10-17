@@ -1,0 +1,20 @@
+{
+  "name": "react-dynamic-gallery",
+  "version": "1.0.0",
+  "description": "react-dynamic-gallery",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitaltim-de/react-dynamic-gallery.git"
+  },
+  "keywords": [
+    ""
+  ]
+,
+  "author": "Digitaltim",
+  "license": "MIT",
+  "dependencies": {
+    "dependency-name": "1.0"
+  },
+  "homepage": "Digitaltim"
+}
